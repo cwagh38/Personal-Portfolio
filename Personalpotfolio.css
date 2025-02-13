@@ -1,0 +1,141 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styling for the body */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    background-color: #fdffec;
+    color: #333;
+}
+
+/* Header and introductory section */
+header {
+    text-align: center;
+    background-color: #fdff8b;
+    color: black;
+    padding: 20px 0;
+}
+
+header .intro img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+header .intro h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+header .intro p {
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+/* About section */
+.about {
+    padding: 20px;
+    background-color: #f9ffca;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+.about h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.about p {
+    font-size: 1.1em;
+}
+
+/* Contact section */
+.contact {
+    padding: 20px;
+    background-color: #f9ffca;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+.contact h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.contact ul {
+    list-style-type: none;
+}
+
+.contact li {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.Internships h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.Internships p {
+    font-size: 1.1em;
+}
+
+/* Certifications */
+.Certifications {
+    padding: 20px;
+    background-color: #f9ffca;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+.Certifications h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.Certifications p {
+    font-size: 1.1em;
+}
+
+/* Technical Skills */
+.TechnicalSkills {
+    padding: 20px;
+    background-color: #f9ffca;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+.TechnicalSkills h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.TechnicalSkills p {
+    font-size: 1.1em;
+}
+
+/* Internships */
+.Internships {
+    padding: 20px;
+    background-color: #f9ffca;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+
+/* Footer styling */
+footer {
+    text-align: center;
+    background-color:  #fdff8b;
+    color: black;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
